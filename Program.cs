@@ -6,10 +6,18 @@ using System.Threading.Tasks;
 
 namespace SayGoodBye_StasIvan
 {
-    internal class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        static public void Main()
         {
+            Console.WriteLine("Hello World!");
+        }
+    }
+    public static class SayGoodBye
+    {
+        static public void Main2()
+        {
+            Console.WriteLine("Goodbye World!");
         }
     }
 }
