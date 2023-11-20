@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("HelloWorld_StasIvan")]
+[assembly: AssemblyTitle("SayGoodBye_StasIvan")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HelloWorld_StasIvan")]
+[assembly: AssemblyProduct("SayGoodBye_StasIvan")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("0b442417-deb7-45fa-98a4-3b9912cd9c61")]
+[assembly: Guid("8548d1c0-5a76-4510-8567-1fd6f1ea7be8")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

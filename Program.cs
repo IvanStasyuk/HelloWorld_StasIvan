@@ -4,20 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld_StasIvan
+namespace SayGoodBye_StasIvan
 {
-    public static class Program
+    internal class Program
     {
-        static public void Main()
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
-    }
-    public static class SayGoodBye
-    {
-        static public void Main2()
-        {
-            Console.WriteLine("Goodbye World!");
         }
     }
 }
