@@ -8,7 +8,7 @@ namespace HelloWorld_StasIvan
 {
     public static class Program
     {
-        static void Main()
+        static public void Main()
         {
             Console.WriteLine("Hello World");
             Console.ReadKey();
