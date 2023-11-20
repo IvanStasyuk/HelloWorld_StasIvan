@@ -10,8 +10,14 @@ namespace HelloWorld_StasIvan
     {
         static public void Main()
         {
-            Console.WriteLine("Hello World");
-            Console.ReadKey();
+            Console.WriteLine("Hello World!");
+        }
+    }
+    public static class SayGoodBye
+    {
+        static public void Main2()
+        {
+            Console.WriteLine("Goodbye World!");
         }
     }
 }
